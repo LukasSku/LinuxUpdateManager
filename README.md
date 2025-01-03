@@ -62,9 +62,3 @@ sudo ./update_manager.lua
 4. Show critical updates only
 5. Refresh system information
 q. Quit
-
-
-
-## Author
-
-[Your Name]

@@ -37,7 +37,7 @@ A user-friendly, interactive command-line update manager for Linux systems, writ
 
 2. Download the update manager:
    ```bash
-   wget https://github.com/LukasSku/LinuxUpdateManager/main/update_manager.lua
+   wget https://raw.githubusercontent.com/LukasSku/LinuxUpdateManager/refs/heads/main/update_manager.lua
    ```
 
 3. Make it executable:
